@@ -1,0 +1,27 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Videos y archivos grandes
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+error.txt
